@@ -1,2 +1,4 @@
 this is text file
 this is second line
+this is conflict line
+
